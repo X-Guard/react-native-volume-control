@@ -1,6 +1,6 @@
 {
-  "name": "react-native-volume-control",
-  "version": "0.2.0",
+  "name": "@x-guard/react-native-volume-control",
+  "version": "0.2.1",
   "description": "Control device volume for iOS and Android",
   "main": "index.js",
   "scripts": {

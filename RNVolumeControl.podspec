@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.preserve_paths      = "**/*.js"
 
   s.subspec 'Main' do |ss|
-    ss.source_files     = "ios/RNVolumeControl.{h,m}"
+    ss.source_files     = "ios/RNVolumeControl/RNVolumeControl.{h,m}"
   end
 end
