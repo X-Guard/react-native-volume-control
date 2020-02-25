@@ -18,4 +18,7 @@ Pod::Spec.new do |s|
   s.subspec 'Main' do |ss|
     ss.source_files     = "ios/RNVolumeControl/RNVolumeControl.{h,m}"
   end
+
+  s.dependency "React"
+    
 end
